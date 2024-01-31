@@ -1,0 +1,17 @@
+# Voltage in V, increments of 25V ( at ten seconds per measurement)
+#! voltage[f, 0]/ number_counts[f,1]/
+
+600 0
+625 0
+650 266
+675 338
+700 553
+725 699
+750 750
+775 797
+800 921
+825 894
+850 947
+875 934
+900 946
+
